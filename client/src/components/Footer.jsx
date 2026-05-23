@@ -37,7 +37,7 @@ const Footer = () => {
               Crafting timeless henna art for your most cherished moments. Bridal, Arabic, Traditional & more.
             </p>
             <div className="flex gap-3">
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.instagram.com/sumii_hegde?igsh=YTV2aWtseHgycDk2" target="_blank" rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full flex items-center justify-center transition-all duration-200 hover:scale-110"
                 style={{ background: 'rgba(201,168,76,0.2)' }}
               >
