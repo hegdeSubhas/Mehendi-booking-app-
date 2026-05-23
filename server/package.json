@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
-    "cloudinary": "^2.6.1",
+    "cloudinary": "^1.41.3",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
