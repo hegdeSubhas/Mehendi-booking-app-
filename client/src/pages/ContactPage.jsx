@@ -47,7 +47,7 @@ export default function ContactPage() {
               {[
                 { icon: Phone, label: 'Phone', value: '+91 7338498524', href: 'tel:+917338498524' },
                 { icon: Mail, label: 'Email', value: 'sumashreedhar074@gmail.com', href: 'mailto:sumashreedhar074@gmail.com' },
-                { icon: InstagramIcon, label: 'Instagram', value: '@mehndimahal', href: 'https://instagram.com' },
+                { icon: InstagramIcon, label: 'Instagram', value: '@sumii_hegde', href: 'https://www.instagram.com/sumii_hegde?igsh=YTV2aWtseHgycDk2' },
                 { icon: MapPin, label: 'Address', value: 'Sirsi karnataka', href: null },
               ].map(({ icon: Icon, label, value, href }) => (
                 <div key={label} className="flex items-start gap-4 mb-5">
